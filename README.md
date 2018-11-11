@@ -1,7 +1,7 @@
 # SpartaXRayInterceptor
+
 Sparta-based application that shows how to use [Interceptors](https://godoc.org/github.com/mweagle/Sparta#LambdaAWSInfo)
 to attach a buffered logger and XRay segment publsiher
-
 
 1. [Install Go](https://golang.org/doc/install)
 1. `go get github.com/mweagle/SpartaXRayInterceptor`
